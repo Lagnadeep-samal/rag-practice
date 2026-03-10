@@ -1,0 +1,5 @@
+I am a motivated Computer Science undergraduate with a strong interest in machine learning, software development, and emerging technologies. I enjoy building practical solutions using data-driven approaches and modern development frameworks. My experience includes developing machine learning models, building APIs, and creating interactive applications to solve real-world problems.
+
+            I have worked on projects such as fake news detection and human activity recognition, applying techniques like logistic regression, random forests, and other machine learning algorithms. I am also comfortable working with tools and technologies such as Python, FastAPI, Streamlit, and Git.
+
+Beyond technical skills, I am a curious learner who enjoys exploring core computer science subjects including operating systems, computer networks, and information security. I am always eager to improve my problem-solving abilities and collaborate on innovative projects that create meaningful impact.
