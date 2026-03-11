@@ -12,3 +12,6 @@ python-dotenv
 pandas
 openpyxl
 jq
+matplotlib
+langchain_huggingface
+sentence-transformers
